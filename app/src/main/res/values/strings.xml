@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">Mobile Banking</string>
+    <string name="incorrect_login">Incorrect Username or Password</string>
+    <string name="account_success">Cont creat cu succes</string>
+    <string name="account_cancelled">Creeare cont amanata</string>
+    <string name="welcome">Bine ati venit,</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="no_account">Nu ai profil?</string>
+    <string name="create_acc">Creaza un profil?</string>
+    <string name="help">Ai nevoie de ajutor?</string>
+    <string name="create_account">Creaza un profil</string>
+    <string name="cancel">Cancel</string>
+    <string name="first_name">Nume</string>
+    <string name="last_name">Prenume</string>
+    <string name="country">Tara</string>
+    <string name="password_confirm">Confirm Password</string>
+    <string name="remember">Tinema minte</string>
+    <string name="fields_blank">Ai lasat unul sau mai multe campuri libere</string>
+    <string name="password_mismatch">Nu ti-ai confirmat parola cu trebuie</string>
+    <string name="conts">Conturi</string>
+    <string name="happy">Fericit</string>
+    <string name="good_evening">Buna Seara</string>
+    <string name="good_afternoon">Buna Ziua</string>
+    <string name="good_morning">Buna Dimineata</string>
+    <string name="dashboard">BANKING TABLA</string>
+    <string name="account_overview">Prezentare Cont</string>
+    <string name="create_initial_account">Creare cont initial</string>
+    <string name="account_name">Nume cont</string>
+    <string name="account_amount">Depozitare cont</string>
+    <string name="make_a_transfer">Efectueaza un transfer</string>
+    <string name="make_a_payment">Efectueaza o plata</string>
+    <string name="about">Despre</string>
+    <string name="account_no">Numar cont:</string>
+    <string name="acc_overview">PREZENTARE CONTURI</string>
+    <string name="select_an_account">Selecteaza un cont pre a vizualiza tranzactiile</string>
+    <string name="view_account_details">Vizionare detalii cont</string>
+    <string name="add_new_acc">Deschide un nou cont</string>
+    <string name="acc_saved_successfully">Cont adaugat cu succes</string>
+    <string name="account_name_error">Ai deja un cont cu acest nume</string>
+    <string name="account_page_title">CONT</string>
+    <string name="transactions_title">TRANZACTII</string>
+    <string name="no_transaction_msg">Nu ai efectuat nici o tranzactie cu acest cont inca</string>
+    <string name="payments">Plati</string>
+    <string name="transfers">Transferuri</string>
+    <string name="payments_title">PLATI</string>
+    <string name="select_acc_pay_from">Selecteaza un cont din care sa platesti</string>
+    <string name="txt_no_payees_msg">Nu ai destui platitori.Adauga unul.</string>
+    <string name="select_payee_msg">Selecteaza un platitor</string>
+    <string name="add_payee_btn_txt">Adauga un platitor</string>
+    <string name="amount_for_payee">Suma</string>
+    <string name="add_payee_name">Nume Platitor</string>
+    <string name="confirm_payee_addition">Confirma adaugare platitor</string>
+    <string name="make_payment_btn_msg">Efectueaza plata</string>
+    <string name="account_name_exceeds_char">Numele contului trebuie sa aiba minim 10 caracter</string>
+    <string name="balance_less_than_ten">Depozitul trebuie sa contina mai mult de $10</string>
+    <string name="acc_fields_incomplete">Nu ai completat campurile contului</string>
+    <string name="str_transfers_title">TRANSFERURI</string>
+    <string name="str_from_acc_msg">Selecteaz cont trimitor</string>
+    <string name="str_to_acc_msg">Selecteaza cont primitor</string>
+    <string name="str_transfer_amount">Transfer suma</string>
+    <string name="str_confirm_transfer">Confirmare transfer</string>
+    <string name="no_second_acc_msg">Nu ai un cont la care sa transferi.Creeaza unul pentru a putea efectua transferul</string>
+    <string name="str_no_payments_msg">Nu ai efectuat nici o plata cu acest cont inca</string>
+    <string name="str_no_transfers">Nu ai facut niciun transfer cu acest cont inca</string>
+    <string name="str_deposit_amount">Depositare suma</string>
+    <string name="str_make_deposit_btn_text">Depoziteaza</string>
+    <string name="str_make_deposit_btn">Depoziteaza</string>
+    <string name="logout">Logout</string>
+    <string name="about_str_title">DESPRE</string>
+    <string name="str_profile_info_title">INFORMATII PROFIL</string>
+    <string name="str_save_to_file">Salavare profil ca fisier</string>
+
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="navigation_drawer_open">Cautare dschisa</string>
+    <string name="navigation_drawer_close">Cautare inchisa</string>
+
+    <string-array name="days">
+        <item>Duminica</item>
+        <item>Luni</item>
+        <item>Marti</item>
+        <item>Miercuri</item>
+        <item>Joi</item>
+        <item>Vineri</item>
+        <item>Sambata</item>
+    </string-array>
+
+    <string-array name="transaction_filters">
+        <item>Tot</item>
+        <item>Plati</item>
+        <item>Transferuri</item>
+        <item>Depositare</item>
+    </string-array>
+
+    <string-array name="date_filters">
+        <item>Vechi - Noi</item>
+        <item>Noi - Vechi</item>
+    </string-array>
+
+</resources>
